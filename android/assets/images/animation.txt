@@ -1,0 +1,158 @@
+animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jin
+  rotate: false
+  xy: 0, 0
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 0
+jin
+  rotate: false
+  xy: 173, 0
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 1
+jin
+  rotate: false
+  xy: 346, 0
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 2
+jin
+  rotate: false
+  xy: 519, 0
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 3
+jin
+  rotate: false
+  xy: 692, 0
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 4
+jin
+  rotate: false
+  xy: 0, 199
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 5
+jin
+  rotate: false
+  xy: 173, 199
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 6
+jin
+  rotate: false
+  xy: 346, 199
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 7
+jin
+  rotate: false
+  xy: 519, 199
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 8
+jin
+  rotate: false
+  xy: 692, 199
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: 9
+ragna
+  rotate: false
+  xy: 865, 199
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 0
+ragna
+  rotate: false
+  xy: 0, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 1
+ragna
+  rotate: false
+  xy: 139, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 2
+ragna
+  rotate: false
+  xy: 278, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 3
+ragna
+  rotate: false
+  xy: 417, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 4
+ragna
+  rotate: false
+  xy: 556, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 5
+ragna
+  rotate: false
+  xy: 695, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 6
+ragna
+  rotate: false
+  xy: 834, 419
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 7
+ragna
+  rotate: false
+  xy: 0, 639
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 8
+ragna
+  rotate: false
+  xy: 139, 639
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 9
+ragna
+  rotate: false
+  xy: 278, 639
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 10
+ragna
+  rotate: false
+  xy: 417, 639
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: 11
